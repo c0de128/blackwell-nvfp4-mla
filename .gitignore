@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+*.o
+*.ptx
+*.so
+
+# Binaries
+test_compat
+tests/test_nvfp4_gemm
+tests/test_nvfp4_mla
+
+# CUDA installer packages
+*.deb
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
