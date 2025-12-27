@@ -61,7 +61,7 @@ make validate
 ### Repository
 
 ```
-github.com/[YOUR_USERNAME]/blackwell-nvfp4-mla
+github.com/c0de128/blackwell-nvfp4-mla
 ```
 
 **Quick Start:**
